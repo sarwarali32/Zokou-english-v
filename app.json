@@ -61,12 +61,12 @@
       "required": true
     },
     "OWNER_NAME": {
-      "desc": "Your Name",
-      "required": false,
+      "desc": "SARWAR ALI",
+      "required": true,
       "value": "Djalega++"
     },
     "NUMERO_OWNER": {
-      "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
+      "desc": "48699556601",
       "required": false,
       "value": "22891733300"
     },
